@@ -15,7 +15,7 @@
 ---
 
 ## 💝 حمایت / Support
-
+ر
 > اگر این ابزار به شما کمک کرد / If this tool helped you:
 
 **BNB (BEP-20) - Ethereum - Arbitrum - Base:**  
